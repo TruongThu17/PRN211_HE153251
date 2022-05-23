@@ -1,0 +1,5 @@
+D:\prn211_VietTH\Demo_Prn211_SE1612_Net\Slot2_3\obj\Debug\net5.0\Slot2_3.csproj.AssemblyReference.cache
+D:\prn211_VietTH\Demo_Prn211_SE1612_Net\Slot2_3\obj\Debug\net5.0\Slot2_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211_VietTH\Demo_Prn211_SE1612_Net\Slot2_3\obj\Debug\net5.0\Slot2_3.AssemblyInfoInputs.cache
+D:\prn211_VietTH\Demo_Prn211_SE1612_Net\Slot2_3\obj\Debug\net5.0\Slot2_3.AssemblyInfo.cs
+D:\prn211_VietTH\Demo_Prn211_SE1612_Net\Slot2_3\obj\Debug\net5.0\Slot2_3.csproj.CoreCompileInputs.cache
