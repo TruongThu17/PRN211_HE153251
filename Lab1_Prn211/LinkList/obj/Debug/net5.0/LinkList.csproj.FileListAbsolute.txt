@@ -1,0 +1,16 @@
+D:\prn211_VietTH\Lab1_Prn211\LinkList\bin\Debug\net5.0\LinkList.exe
+D:\prn211_VietTH\Lab1_Prn211\LinkList\bin\Debug\net5.0\LinkList.deps.json
+D:\prn211_VietTH\Lab1_Prn211\LinkList\bin\Debug\net5.0\LinkList.runtimeconfig.json
+D:\prn211_VietTH\Lab1_Prn211\LinkList\bin\Debug\net5.0\LinkList.runtimeconfig.dev.json
+D:\prn211_VietTH\Lab1_Prn211\LinkList\bin\Debug\net5.0\LinkList.dll
+D:\prn211_VietTH\Lab1_Prn211\LinkList\bin\Debug\net5.0\LinkList.pdb
+D:\prn211_VietTH\Lab1_Prn211\LinkList\obj\Debug\net5.0\LinkList.csproj.AssemblyReference.cache
+D:\prn211_VietTH\Lab1_Prn211\LinkList\obj\Debug\net5.0\LinkList.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211_VietTH\Lab1_Prn211\LinkList\obj\Debug\net5.0\LinkList.AssemblyInfoInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\LinkList\obj\Debug\net5.0\LinkList.AssemblyInfo.cs
+D:\prn211_VietTH\Lab1_Prn211\LinkList\obj\Debug\net5.0\LinkList.csproj.CoreCompileInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\LinkList\obj\Debug\net5.0\LinkList.dll
+D:\prn211_VietTH\Lab1_Prn211\LinkList\obj\Debug\net5.0\refint\LinkList.dll
+D:\prn211_VietTH\Lab1_Prn211\LinkList\obj\Debug\net5.0\LinkList.pdb
+D:\prn211_VietTH\Lab1_Prn211\LinkList\obj\Debug\net5.0\LinkList.genruntimeconfig.cache
+D:\prn211_VietTH\Lab1_Prn211\LinkList\obj\Debug\net5.0\ref\LinkList.dll

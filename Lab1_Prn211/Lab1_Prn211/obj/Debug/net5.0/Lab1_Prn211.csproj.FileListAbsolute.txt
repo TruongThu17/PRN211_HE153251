@@ -1,0 +1,16 @@
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\Lab1_Prn211.exe
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\Lab1_Prn211.deps.json
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\Lab1_Prn211.runtimeconfig.json
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\Lab1_Prn211.runtimeconfig.dev.json
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\Lab1_Prn211.dll
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\Lab1_Prn211.pdb
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\Lab1_Prn211.csproj.AssemblyReference.cache
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\Lab1_Prn211.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\Lab1_Prn211.AssemblyInfoInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\Lab1_Prn211.AssemblyInfo.cs
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\Lab1_Prn211.csproj.CoreCompileInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\Lab1_Prn211.dll
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\refint\Lab1_Prn211.dll
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\Lab1_Prn211.pdb
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\Lab1_Prn211.genruntimeconfig.cache
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\ref\Lab1_Prn211.dll

@@ -1,0 +1,16 @@
+D:\prn211_VietTH\Lab1_Prn211\List_EX\bin\Debug\net5.0\List_EX.exe
+D:\prn211_VietTH\Lab1_Prn211\List_EX\bin\Debug\net5.0\List_EX.deps.json
+D:\prn211_VietTH\Lab1_Prn211\List_EX\bin\Debug\net5.0\List_EX.runtimeconfig.json
+D:\prn211_VietTH\Lab1_Prn211\List_EX\bin\Debug\net5.0\List_EX.runtimeconfig.dev.json
+D:\prn211_VietTH\Lab1_Prn211\List_EX\bin\Debug\net5.0\List_EX.dll
+D:\prn211_VietTH\Lab1_Prn211\List_EX\bin\Debug\net5.0\List_EX.pdb
+D:\prn211_VietTH\Lab1_Prn211\List_EX\obj\Debug\net5.0\List_EX.csproj.AssemblyReference.cache
+D:\prn211_VietTH\Lab1_Prn211\List_EX\obj\Debug\net5.0\List_EX.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211_VietTH\Lab1_Prn211\List_EX\obj\Debug\net5.0\List_EX.AssemblyInfoInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\List_EX\obj\Debug\net5.0\List_EX.AssemblyInfo.cs
+D:\prn211_VietTH\Lab1_Prn211\List_EX\obj\Debug\net5.0\List_EX.csproj.CoreCompileInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\List_EX\obj\Debug\net5.0\List_EX.dll
+D:\prn211_VietTH\Lab1_Prn211\List_EX\obj\Debug\net5.0\refint\List_EX.dll
+D:\prn211_VietTH\Lab1_Prn211\List_EX\obj\Debug\net5.0\List_EX.pdb
+D:\prn211_VietTH\Lab1_Prn211\List_EX\obj\Debug\net5.0\List_EX.genruntimeconfig.cache
+D:\prn211_VietTH\Lab1_Prn211\List_EX\obj\Debug\net5.0\ref\List_EX.dll

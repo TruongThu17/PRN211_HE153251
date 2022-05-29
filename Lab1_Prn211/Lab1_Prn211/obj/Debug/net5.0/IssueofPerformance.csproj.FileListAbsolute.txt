@@ -1,0 +1,16 @@
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\IssueofPerformance.exe
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\IssueofPerformance.deps.json
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\IssueofPerformance.runtimeconfig.json
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\IssueofPerformance.runtimeconfig.dev.json
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\IssueofPerformance.dll
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\bin\Debug\net5.0\IssueofPerformance.pdb
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\IssueofPerformance.csproj.AssemblyReference.cache
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\IssueofPerformance.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\IssueofPerformance.AssemblyInfoInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\IssueofPerformance.AssemblyInfo.cs
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\IssueofPerformance.csproj.CoreCompileInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\IssueofPerformance.dll
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\refint\IssueofPerformance.dll
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\IssueofPerformance.pdb
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\IssueofPerformance.genruntimeconfig.cache
+D:\prn211_VietTH\Lab1_Prn211\Lab1_Prn211\obj\Debug\net5.0\ref\IssueofPerformance.dll

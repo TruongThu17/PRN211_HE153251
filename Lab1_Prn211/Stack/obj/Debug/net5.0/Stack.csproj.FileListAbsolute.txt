@@ -1,0 +1,16 @@
+D:\prn211_VietTH\Lab1_Prn211\Stack\bin\Debug\net5.0\Stack.exe
+D:\prn211_VietTH\Lab1_Prn211\Stack\bin\Debug\net5.0\Stack.deps.json
+D:\prn211_VietTH\Lab1_Prn211\Stack\bin\Debug\net5.0\Stack.runtimeconfig.json
+D:\prn211_VietTH\Lab1_Prn211\Stack\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+D:\prn211_VietTH\Lab1_Prn211\Stack\bin\Debug\net5.0\Stack.dll
+D:\prn211_VietTH\Lab1_Prn211\Stack\bin\Debug\net5.0\Stack.pdb
+D:\prn211_VietTH\Lab1_Prn211\Stack\obj\Debug\net5.0\Stack.csproj.AssemblyReference.cache
+D:\prn211_VietTH\Lab1_Prn211\Stack\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211_VietTH\Lab1_Prn211\Stack\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\Stack\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+D:\prn211_VietTH\Lab1_Prn211\Stack\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\Stack\obj\Debug\net5.0\Stack.dll
+D:\prn211_VietTH\Lab1_Prn211\Stack\obj\Debug\net5.0\refint\Stack.dll
+D:\prn211_VietTH\Lab1_Prn211\Stack\obj\Debug\net5.0\Stack.pdb
+D:\prn211_VietTH\Lab1_Prn211\Stack\obj\Debug\net5.0\Stack.genruntimeconfig.cache
+D:\prn211_VietTH\Lab1_Prn211\Stack\obj\Debug\net5.0\ref\Stack.dll

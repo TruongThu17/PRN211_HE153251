@@ -1,0 +1,16 @@
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\bin\Debug\net5.0\Dictionary.exe
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\bin\Debug\net5.0\Dictionary.dll
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\obj\Debug\net5.0\Dictionary.csproj.AssemblyReference.cache
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\obj\Debug\net5.0\Dictionary.dll
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\obj\Debug\net5.0\refint\Dictionary.dll
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache
+D:\prn211_VietTH\Lab1_Prn211\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll

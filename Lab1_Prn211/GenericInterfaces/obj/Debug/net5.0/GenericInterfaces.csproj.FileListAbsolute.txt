@@ -1,0 +1,16 @@
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\bin\Debug\net5.0\GenericInterfaces.exe
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\bin\Debug\net5.0\GenericInterfaces.deps.json
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\bin\Debug\net5.0\GenericInterfaces.runtimeconfig.json
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\bin\Debug\net5.0\GenericInterfaces.runtimeconfig.dev.json
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\bin\Debug\net5.0\GenericInterfaces.dll
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\bin\Debug\net5.0\GenericInterfaces.pdb
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\obj\Debug\net5.0\GenericInterfaces.csproj.AssemblyReference.cache
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\obj\Debug\net5.0\GenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\obj\Debug\net5.0\GenericInterfaces.AssemblyInfoInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\obj\Debug\net5.0\GenericInterfaces.AssemblyInfo.cs
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\obj\Debug\net5.0\GenericInterfaces.csproj.CoreCompileInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\obj\Debug\net5.0\GenericInterfaces.dll
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\obj\Debug\net5.0\refint\GenericInterfaces.dll
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\obj\Debug\net5.0\GenericInterfaces.pdb
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\obj\Debug\net5.0\GenericInterfaces.genruntimeconfig.cache
+D:\prn211_VietTH\Lab1_Prn211\GenericInterfaces\obj\Debug\net5.0\ref\GenericInterfaces.dll

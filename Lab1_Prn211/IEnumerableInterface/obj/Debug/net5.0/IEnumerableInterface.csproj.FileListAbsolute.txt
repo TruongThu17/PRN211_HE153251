@@ -1,0 +1,16 @@
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\obj\Debug\net5.0\IEnumerableInterface.csproj.AssemblyReference.cache
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\obj\Debug\net5.0\IEnumerableInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\obj\Debug\net5.0\IEnumerableInterface.AssemblyInfoInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\obj\Debug\net5.0\IEnumerableInterface.AssemblyInfo.cs
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\obj\Debug\net5.0\IEnumerableInterface.csproj.CoreCompileInputs.cache
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\bin\Debug\net5.0\IEnumerableInterface.exe
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\bin\Debug\net5.0\IEnumerableInterface.deps.json
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\bin\Debug\net5.0\IEnumerableInterface.runtimeconfig.json
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\bin\Debug\net5.0\IEnumerableInterface.runtimeconfig.dev.json
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\bin\Debug\net5.0\IEnumerableInterface.dll
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\bin\Debug\net5.0\IEnumerableInterface.pdb
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\obj\Debug\net5.0\IEnumerableInterface.dll
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\obj\Debug\net5.0\refint\IEnumerableInterface.dll
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\obj\Debug\net5.0\IEnumerableInterface.pdb
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\obj\Debug\net5.0\IEnumerableInterface.genruntimeconfig.cache
+D:\prn211_VietTH\Lab1_Prn211\IEnumerableInterface\obj\Debug\net5.0\ref\IEnumerableInterface.dll
