@@ -1,0 +1,16 @@
+D:\prn211_VietTH\Slot12\Slot12\bin\Debug\net5.0\FileStream.exe
+D:\prn211_VietTH\Slot12\Slot12\bin\Debug\net5.0\FileStream.deps.json
+D:\prn211_VietTH\Slot12\Slot12\bin\Debug\net5.0\FileStream.runtimeconfig.json
+D:\prn211_VietTH\Slot12\Slot12\bin\Debug\net5.0\FileStream.runtimeconfig.dev.json
+D:\prn211_VietTH\Slot12\Slot12\bin\Debug\net5.0\FileStream.dll
+D:\prn211_VietTH\Slot12\Slot12\bin\Debug\net5.0\FileStream.pdb
+D:\prn211_VietTH\Slot12\Slot12\obj\Debug\net5.0\FileStream.csproj.AssemblyReference.cache
+D:\prn211_VietTH\Slot12\Slot12\obj\Debug\net5.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211_VietTH\Slot12\Slot12\obj\Debug\net5.0\FileStream.AssemblyInfoInputs.cache
+D:\prn211_VietTH\Slot12\Slot12\obj\Debug\net5.0\FileStream.AssemblyInfo.cs
+D:\prn211_VietTH\Slot12\Slot12\obj\Debug\net5.0\FileStream.csproj.CoreCompileInputs.cache
+D:\prn211_VietTH\Slot12\Slot12\obj\Debug\net5.0\FileStream.dll
+D:\prn211_VietTH\Slot12\Slot12\obj\Debug\net5.0\refint\FileStream.dll
+D:\prn211_VietTH\Slot12\Slot12\obj\Debug\net5.0\FileStream.pdb
+D:\prn211_VietTH\Slot12\Slot12\obj\Debug\net5.0\FileStream.genruntimeconfig.cache
+D:\prn211_VietTH\Slot12\Slot12\obj\Debug\net5.0\ref\FileStream.dll

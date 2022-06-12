@@ -1,0 +1,16 @@
+D:\prn211_VietTH\Slot6\EX4\bin\Debug\net5.0\EX4.exe
+D:\prn211_VietTH\Slot6\EX4\bin\Debug\net5.0\EX4.deps.json
+D:\prn211_VietTH\Slot6\EX4\bin\Debug\net5.0\EX4.runtimeconfig.json
+D:\prn211_VietTH\Slot6\EX4\bin\Debug\net5.0\EX4.runtimeconfig.dev.json
+D:\prn211_VietTH\Slot6\EX4\bin\Debug\net5.0\EX4.dll
+D:\prn211_VietTH\Slot6\EX4\bin\Debug\net5.0\EX4.pdb
+D:\prn211_VietTH\Slot6\EX4\obj\Debug\net5.0\EX4.csproj.AssemblyReference.cache
+D:\prn211_VietTH\Slot6\EX4\obj\Debug\net5.0\EX4.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211_VietTH\Slot6\EX4\obj\Debug\net5.0\EX4.AssemblyInfoInputs.cache
+D:\prn211_VietTH\Slot6\EX4\obj\Debug\net5.0\EX4.AssemblyInfo.cs
+D:\prn211_VietTH\Slot6\EX4\obj\Debug\net5.0\EX4.csproj.CoreCompileInputs.cache
+D:\prn211_VietTH\Slot6\EX4\obj\Debug\net5.0\EX4.dll
+D:\prn211_VietTH\Slot6\EX4\obj\Debug\net5.0\refint\EX4.dll
+D:\prn211_VietTH\Slot6\EX4\obj\Debug\net5.0\EX4.pdb
+D:\prn211_VietTH\Slot6\EX4\obj\Debug\net5.0\EX4.genruntimeconfig.cache
+D:\prn211_VietTH\Slot6\EX4\obj\Debug\net5.0\ref\EX4.dll
